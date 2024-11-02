@@ -1,0 +1,130 @@
+2024-11-01 20:14:54,773 - INFO - No cookies file found, starting fresh session
+2024-11-01 20:14:55,231 - INFO - Navigation attempt 1/3
+2024-11-01 20:14:57,891 - INFO - Navigation successful
+2024-11-01 20:15:00,550 - INFO - Starting data scraping...
+2024-11-01 20:15:00,550 - INFO - Waiting for publications to load...
+2024-11-01 20:15:00,725 - INFO - Found 60 publication cards
+2024-11-01 20:15:00,725 - INFO - Processing card 1/60
+2024-11-01 20:15:00,728 - INFO - Successfully scraped: Cahiers d'Addoc
+2024-11-01 20:15:03,813 - INFO - Processing card 2/60
+2024-11-01 20:15:03,823 - INFO - Successfully scraped: Orages
+2024-11-01 20:15:07,221 - INFO - Processing card 3/60
+2024-11-01 20:15:07,233 - INFO - Successfully scraped: Revue d'Histoire de l'Énergie
+2024-11-01 20:15:09,633 - INFO - Processing card 4/60
+2024-11-01 20:15:09,643 - INFO - Successfully scraped: Art et thérapie
+2024-11-01 20:15:12,903 - INFO - Processing card 5/60
+2024-11-01 20:15:12,912 - INFO - Successfully scraped: France Forum
+2024-11-01 20:15:16,321 - INFO - Processing card 6/60
+2024-11-01 20:15:16,325 - INFO - Successfully scraped: Psy Cause
+2024-11-01 20:15:18,694 - INFO - Processing card 7/60
+2024-11-01 20:15:18,701 - INFO - Successfully scraped: Éducation thérapeutique du patient / Therapeutic patient education
+2024-11-01 20:15:20,770 - INFO - Processing card 8/60
+2024-11-01 20:15:20,778 - INFO - Successfully scraped: Les Cahiers de la République universelle
+2024-11-01 20:15:22,865 - INFO - Processing card 9/60
+2024-11-01 20:15:22,873 - INFO - Successfully scraped: Journal de l‘hypnose et de la santé intégrative
+2024-11-01 20:15:24,662 - INFO - Processing card 10/60
+2024-11-01 20:15:24,670 - INFO - Successfully scraped: Pratiques
+2024-11-01 20:15:28,089 - INFO - Processing card 11/60
+2024-11-01 20:15:28,098 - INFO - Successfully scraped: Recherches internationales
+2024-11-01 20:15:31,162 - INFO - Processing card 12/60
+2024-11-01 20:15:31,171 - INFO - Successfully scraped: Cahiers de récits
+2024-11-01 20:15:32,810 - INFO - Processing card 13/60
+2024-11-01 20:15:32,819 - INFO - Successfully scraped: Cahiers ISPOLE
+2024-11-01 20:15:35,736 - INFO - Processing card 14/60
+2024-11-01 20:15:35,745 - INFO - Successfully scraped: Revue Lumen Vitae
+2024-11-01 20:15:39,241 - INFO - Processing card 15/60
+2024-11-01 20:15:39,248 - INFO - Successfully scraped: Cahiers pédagogiques
+2024-11-01 20:15:41,409 - INFO - Processing card 16/60
+2024-11-01 20:15:41,416 - INFO - Successfully scraped: Otrante
+2024-11-01 20:15:44,115 - INFO - Processing card 17/60
+2024-11-01 20:15:44,123 - INFO - Successfully scraped: Le Visiteur
+2024-11-01 20:15:45,785 - INFO - Processing card 18/60
+2024-11-01 20:15:45,793 - INFO - Successfully scraped: Proche-Orient Chrétien
+2024-11-01 20:15:48,086 - INFO - Processing card 19/60
+2024-11-01 20:15:48,095 - INFO - Successfully scraped: Revue de l'art
+2024-11-01 20:15:51,471 - INFO - Processing card 20/60
+2024-11-01 20:15:51,479 - INFO - Successfully scraped: Revue d'études palestiniennes
+2024-11-01 20:15:53,688 - INFO - Processing card 21/60
+2024-11-01 20:15:53,695 - INFO - Successfully scraped: Bulletin du bibliophile
+2024-11-01 20:15:55,830 - INFO - Processing card 22/60
+2024-11-01 20:15:55,839 - INFO - Successfully scraped: Histoire de la justice
+2024-11-01 20:15:58,553 - INFO - Processing card 23/60
+2024-11-01 20:15:58,561 - INFO - Successfully scraped: Lapsus
+2024-11-01 20:16:02,003 - INFO - Processing card 24/60
+2024-11-01 20:16:02,011 - INFO - Successfully scraped: Décisions Marketing
+2024-11-01 20:16:04,632 - INFO - Processing card 25/60
+2024-11-01 20:16:04,638 - INFO - Successfully scraped: Cahiers Pierre Michon
+2024-11-01 20:16:08,125 - INFO - Processing card 26/60
+2024-11-01 20:16:08,134 - INFO - Successfully scraped: Légipresse
+2024-11-01 20:16:11,425 - INFO - Processing card 27/60
+2024-11-01 20:16:11,440 - INFO - Successfully scraped: Management & Avenir - PedagogiA
+2024-11-01 20:16:14,915 - INFO - Processing card 28/60
+2024-11-01 20:16:14,922 - INFO - Successfully scraped: L'information psychiatrique
+2024-11-01 20:16:18,372 - INFO - Processing card 29/60
+2024-11-01 20:16:18,380 - INFO - Successfully scraped: Journal du Droit de la Santé et de l’Assurance - Maladie (JDSAM)
+2024-11-01 20:16:20,372 - INFO - Processing card 30/60
+2024-11-01 20:16:20,383 - INFO - Successfully scraped: Les Cahiers du Musée national d’art moderne
+2024-11-01 20:16:22,999 - INFO - Processing card 31/60
+2024-11-01 20:16:23,007 - INFO - Successfully scraped: Santé mentale au Québec
+2024-11-01 20:16:24,857 - INFO - Processing card 32/60
+2024-11-01 20:16:24,872 - INFO - Successfully scraped: Céreq Essentiels
+2024-11-01 20:16:27,423 - INFO - Processing card 33/60
+2024-11-01 20:16:27,434 - INFO - Successfully scraped: Études françaises de renseignement et de cyber
+2024-11-01 20:16:29,390 - INFO - Processing card 34/60
+2024-11-01 20:16:29,396 - INFO - Successfully scraped: The Irenaut
+2024-11-01 20:16:32,379 - INFO - Processing card 35/60
+2024-11-01 20:16:32,388 - INFO - Successfully scraped: Suds
+2024-11-01 20:16:35,702 - INFO - Processing card 36/60
+2024-11-01 20:16:35,710 - INFO - Successfully scraped: Documentation et bibliothèques
+2024-11-01 20:16:38,688 - INFO - Processing card 37/60
+2024-11-01 20:16:38,696 - INFO - Successfully scraped: Action publique. Recherche et pratiques
+2024-11-01 20:16:41,824 - INFO - Processing card 38/60
+2024-11-01 20:16:41,834 - INFO - Successfully scraped: Management & Sciences Sociales
+2024-11-01 20:16:43,413 - INFO - Processing card 39/60
+2024-11-01 20:16:43,421 - INFO - Successfully scraped: Pin Code
+2024-11-01 20:16:45,799 - INFO - Processing card 40/60
+2024-11-01 20:16:45,807 - INFO - Successfully scraped: Chroniques de l'administration publique
+2024-11-01 20:16:48,133 - INFO - Processing card 41/60
+2024-11-01 20:16:48,141 - INFO - Successfully scraped: Bankers, Markets & Investors
+2024-11-01 20:16:50,298 - INFO - Processing card 42/60
+2024-11-01 20:16:50,306 - INFO - Successfully scraped: Population & Sociétés
+2024-11-01 20:16:53,000 - INFO - Processing card 43/60
+2024-11-01 20:16:53,010 - INFO - Successfully scraped: Revue du Nord
+2024-11-01 20:16:54,713 - INFO - Processing card 44/60
+2024-11-01 20:16:54,721 - INFO - Successfully scraped: Les Cahiers de l’Actif
+2024-11-01 20:16:57,299 - INFO - Processing card 45/60
+2024-11-01 20:16:57,307 - INFO - Successfully scraped: Éducation & formations
+2024-11-01 20:16:59,000 - INFO - Processing card 46/60
+2024-11-01 20:16:59,010 - INFO - Successfully scraped: Annales de Bourgogne
+2024-11-01 20:17:02,148 - INFO - Processing card 47/60
+2024-11-01 20:17:02,156 - INFO - Successfully scraped: Revue CONFLUENCE : Sciences & Humanités
+2024-11-01 20:17:03,771 - INFO - Processing card 48/60
+2024-11-01 20:17:03,778 - INFO - Successfully scraped: Cahiers de la sécurité et de la justice
+2024-11-01 20:17:05,449 - INFO - Processing card 49/60
+2024-11-01 20:17:05,458 - INFO - Successfully scraped: Afrique(s) en mouvement
+2024-11-01 20:17:08,056 - INFO - Processing card 50/60
+2024-11-01 20:17:08,070 - INFO - Successfully scraped: Habitante
+2024-11-01 20:17:10,426 - INFO - Processing card 51/60
+2024-11-01 20:17:10,436 - INFO - Successfully scraped: Cahiers de danse
+2024-11-01 20:17:13,400 - INFO - Processing card 52/60
+2024-11-01 20:17:13,408 - INFO - Successfully scraped: Germinal
+2024-11-01 20:17:15,425 - INFO - Processing card 53/60
+2024-11-01 20:17:15,433 - INFO - Successfully scraped: Cahiers de Conflits
+2024-11-01 20:17:17,428 - INFO - Processing card 54/60
+2024-11-01 20:17:17,443 - INFO - Successfully scraped: Thérapie Psychomotrice et Recherches
+2024-11-01 20:17:19,172 - INFO - Processing card 55/60
+2024-11-01 20:17:19,181 - INFO - Successfully scraped: Présence haptonomique
+2024-11-01 20:17:22,088 - INFO - Processing card 56/60
+2024-11-01 20:17:22,096 - INFO - Successfully scraped: La Géographie
+2024-11-01 20:17:24,350 - INFO - Processing card 57/60
+2024-11-01 20:17:24,358 - INFO - Successfully scraped: Le Regard Libre
+2024-11-01 20:17:27,037 - INFO - Processing card 58/60
+2024-11-01 20:17:27,045 - INFO - Successfully scraped: Revue d’histoire de l’enfance « irrégulière »
+2024-11-01 20:17:29,360 - INFO - Processing card 59/60
+2024-11-01 20:17:29,371 - INFO - Successfully scraped: Revue Historique des Armées
+2024-11-01 20:17:32,014 - INFO - Processing card 60/60
+2024-11-01 20:17:32,022 - INFO - Successfully scraped: Études Durkheimiennes
+2024-11-01 20:17:33,715 - INFO - Scraping completed. Total publications: 60
+2024-11-01 20:17:33,734 - INFO - Successfully exported 60 records to /Users/raphaelm/Mon Drive (famousmonsterxoxo@gmail.com)/cairn-rss/output/data/cairn_publications_20241101_201733.txt
+2024-11-01 20:17:33,736 - INFO - Successfully exported 60 records to /Users/raphaelm/Mon Drive (famousmonsterxoxo@gmail.com)/cairn-rss/output/data/cairn_publications_20241101_201733.csv
+2024-11-01 20:17:33,737 - INFO - Successfully exported 60 records to /Users/raphaelm/Mon Drive (famousmonsterxoxo@gmail.com)/cairn-rss/output/data/cairn_publications_20241101_201733.json

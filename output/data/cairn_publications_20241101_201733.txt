@@ -1,0 +1,482 @@
+Publications CAIRN - 2024-11-01 20:17:33
+
+Publication 1:
+Titre: Cahiers d'Addoc
+Type: Revue
+Code: ADDOC - Association des cinéastes documentaristes
+URL: https://shs.cairn.info/revue-cahiers-d-addoc?lang=fr
+Couverture: https://shs.cairn.info/numero/CADA_001/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 2:
+Titre: Orages
+Type: Revue
+Code: Revue Orages
+URL: https://shs.cairn.info/revue-orages?lang=fr
+Couverture: https://shs.cairn.info/numero/ORA_012/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 3:
+Titre: Revue d'Histoire de l'Énergie
+Type: Revue
+Code: Fondation groupe EDF
+URL: https://stm.cairn.info/revue-d-histoire-de-l-energie?lang=fr
+Couverture: https://shs.cairn.info/numero/JEHRHE_011/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 4:
+Titre: Art et thérapie
+Type: Revue
+Code: Art et thérapie
+URL: https://shs.cairn.info/revue-art-et-therapie?lang=fr
+Couverture: https://shs.cairn.info/numero/RATH_118/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 5:
+Titre: France Forum
+Type: Revue
+Code: Editions HDiffusion
+URL: https://shs.cairn.info/revue-france-forum?lang=fr
+Couverture: https://shs.cairn.info/numero/FFO_414/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 6:
+Titre: Psy Cause
+Type: Revue
+Code: Psy Cause International
+URL: https://shs.cairn.info/revue-psy-cause?lang=fr
+Couverture: https://shs.cairn.info/numero/PSCA_075/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 7:
+Titre: Éducation thérapeutique du patient / Therapeutic patient education
+Type: Revue
+Code: EDP Sciences
+URL: https://stm.cairn.info/revue-education-therapeutique-du-patient?lang=fr
+Couverture: https://shs.cairn.info/numero/ETP_142/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 8:
+Titre: Les Cahiers de la République universelle
+Type: Revue
+Code: Éditions Matériologiques
+URL: https://shs.cairn.info/revue-les-cahiers-de-la-republique-universelle?lang=fr
+Couverture: https://shs.cairn.info/numero/CDRU_001/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 9:
+Titre: Journal de l‘hypnose et de la santé intégrative
+Type: Revue
+Code: Dunod
+URL: https://stm.cairn.info/revue-journal-de-l-hypnose-et-de-la-sante-integrative?lang=fr
+Couverture: https://shs.cairn.info/numero/JHSI_001/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 10:
+Titre: Pratiques
+Type: Revue
+Code: Revue pratiques
+URL: https://stm.cairn.info/revue-pratiques?lang=fr
+Couverture: https://shs.cairn.info/numero/PRAT_105/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 11:
+Titre: Recherches internationales
+Type: Revue
+Code: Association Paul Langevin
+URL: https://shs.cairn.info/revue-recherches-internationales?lang=fr
+Couverture: https://shs.cairn.info/numero/REIN_129/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 12:
+Titre: Cahiers de récits
+Type: Revue
+Code: Université de technologie de Belfort-Montbéliard
+URL: https://shs.cairn.info/revue-cahiers-de-recits?lang=fr
+Couverture: https://shs.cairn.info/numero/CDR_011/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 13:
+Titre: Cahiers ISPOLE
+Type: Revue
+Code: Université catholique de Louvain
+URL: https://shs.cairn.info/revue-cahiers-ispole?lang=fr
+Couverture: https://shs.cairn.info/numero/CISP_001/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 14:
+Titre: Revue Lumen Vitae
+Type: Revue
+Code: Université catholique de Louvain
+URL: https://shs.cairn.info/revue-lumen-vitae?lang=fr
+Couverture: https://shs.cairn.info/numero/LV_793/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 15:
+Titre: Cahiers pédagogiques
+Type: Revue
+Code: CRAP - Cahiers pédagogiques
+URL: https://shs.cairn.info/revue-cahiers-pedagogiques?lang=fr
+Couverture: https://shs.cairn.info/numero/CAPE_595/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 16:
+Titre: Otrante
+Type: Revue
+Code: Presses universitaires de Rennes
+URL: https://shs.cairn.info/revue-otrante?lang=fr
+Couverture: https://shs.cairn.info/numero/OTRA_053/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 17:
+Titre: Le Visiteur
+Type: Revue
+Code: Société française des architectes (S.F.A.)
+URL: https://shs.cairn.info/revue-le-visiteur?lang=fr
+Couverture: https://shs.cairn.info/numero/VISIT_022/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 18:
+Titre: Proche-Orient Chrétien
+Type: Revue
+Code: Université Saint-Joseph de Beyrouth
+URL: https://shs.cairn.info/revue-proche-orient-chretien?lang=fr
+Couverture: https://shs.cairn.info/numero/POC_691/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 19:
+Titre: Revue de l'art
+Type: Revue
+Code: Éditions Ophrys
+URL: https://shs.cairn.info/revue-de-l-art?lang=fr
+Couverture: https://shs.cairn.info/numero/RDA_224/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 20:
+Titre: Revue d'études palestiniennes
+Type: Revue
+Code: Institut des études palestiniennes
+URL: https://shs.cairn.info/revue-d-etudes-palestiniennes?lang=fr
+Couverture: https://shs.cairn.info/numero/REPA_027/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 21:
+Titre: Bulletin du bibliophile
+Type: Revue
+Code: Éditions du Cercle de la Librairie
+URL: https://shs.cairn.info/revue-bulletin-du-bibliophile?lang=fr
+Couverture: https://shs.cairn.info/numero/BUBIB_379/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 22:
+Titre: Histoire de la justice
+Type: Revue
+Code: Association Française pour l'Histoire de la Justice
+URL: https://droit.cairn.info/revue-histoire-de-la-justice?lang=fr
+Couverture: https://shs.cairn.info/numero/RHJ_013/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 23:
+Titre: Lapsus
+Type: Revue
+Code: Érès
+URL: https://shs.cairn.info/revue-lapsus?lang=fr
+Couverture: https://shs.cairn.info/numero/LAPS_003/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 24:
+Titre: Décisions Marketing
+Type: Revue
+Code: EMS Editions
+URL: https://shs.cairn.info/revue-decisions-marketing?lang=fr
+Couverture: https://shs.cairn.info/numero/DM_115/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 25:
+Titre: Cahiers Pierre Michon
+Type: Revue
+Code: Presses universitaires de Rennes
+URL: https://shs.cairn.info/revue-cahiers-pierre-michon?lang=fr
+Couverture: https://shs.cairn.info/numero/CPM_002/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 26:
+Titre: Légipresse
+Type: Revue
+Code: Dalloz
+URL: https://droit.cairn.info/revue-legipresse?lang=fr
+Couverture: https://shs.cairn.info/numero/LEGIP_HS70/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 27:
+Titre: Management & Avenir - PedagogiA
+Type: Revue
+Code: Management Prospective Editions
+URL: https://shs.cairn.info/revue-pedagogia?lang=fr
+Couverture: https://shs.cairn.info/numero/PEDA_002/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 28:
+Titre: L'information psychiatrique
+Type: Revue
+Code: JLE Editions
+URL: https://stm.cairn.info/revue-l-information-psychiatrique?lang=fr
+Couverture: https://shs.cairn.info/numero/INPSY_10008/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 29:
+Titre: Journal du Droit de la Santé et de l’Assurance - Maladie (JDSAM)
+Type: Revue
+Code: L’Institut Droit et Santé, de l’université de Paris Cité
+URL: https://droit.cairn.info/revue-journal-du-droit-de-la-sante-et-de-l-assurance-maladie?lang=fr
+Couverture: https://shs.cairn.info/numero/JDSAM_HS1/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 30:
+Titre: Les Cahiers du Musée national d’art moderne
+Type: Revue
+Code: Éditions du Centre Pompidou
+URL: https://shs.cairn.info/revue-les-cahiers-du-musee-national-d-art-moderne?lang=fr
+Couverture: https://shs.cairn.info/numero/MNAM_165/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 31:
+Titre: Santé mentale au Québec
+Type: Revue
+Code: Santé mentale au Québec
+URL: https://shs.cairn.info/revue-sante-mentale-au-quebec?lang=fr
+Couverture: https://shs.cairn.info/numero/SMQ_491/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 32:
+Titre: Céreq Essentiels
+Type: Revue
+Code: Céreq
+URL: https://shs.cairn.info/revue-cereq-essentiels?lang=fr
+Couverture: https://shs.cairn.info/numero/ESSE_005/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 33:
+Titre: Études françaises de renseignement et de cyber
+Type: Revue
+Code: Presses Universitaires de France
+URL: https://shs.cairn.info/revue-etudes-francaises-de-renseignement-et-de-cyber?lang=fr
+Couverture: https://shs.cairn.info/numero/EFRC_242/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 34:
+Titre: The Irenaut
+Type: Revue
+Code: The Irenaut
+URL: https://shs.cairn.info/revue-the-irenaut?lang=fr
+Couverture: https://shs.cairn.info/numero/IREN_003/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 35:
+Titre: Suds
+Type: Revue
+Code: Presses universitaires de Bordeaux
+URL: https://shs.cairn.info/revue-suds?lang=fr
+Couverture: https://shs.cairn.info/numero/SUDS_288/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 36:
+Titre: Documentation et bibliothèques
+Type: Revue
+Code: Éditions ASTED
+URL: https://shs.cairn.info/revue-documentation-et-bibliotheques?lang=fr
+Couverture: https://shs.cairn.info/numero/DOBI_703/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 37:
+Titre: Action publique. Recherche et pratiques
+Type: Revue
+Code: Institut de la gestion publique et du développement économique (IGPDE)
+URL: https://shs.cairn.info/revue-action-publique-recherche-et-pratiques?lang=fr
+Couverture: https://shs.cairn.info/numero/APRP_021/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 38:
+Titre: Management & Sciences Sociales
+Type: Revue
+Code: ISTEC
+URL: https://shs.cairn.info/revue-management-et-sciences-sociales?lang=fr
+Couverture: https://shs.cairn.info/numero/MSS_037/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 39:
+Titre: Pin Code
+Type: Revue
+Code: Legitech
+URL: https://droit.cairn.info/revue-pincode?lang=fr
+Couverture: https://shs.cairn.info/numero/PINC_016/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 40:
+Titre: Chroniques de l'administration publique
+Type: Revue
+Code: Institut national du service public
+URL: https://droit.cairn.info/revue-chroniques-de-l-administration-publique?lang=fr
+Couverture: https://shs.cairn.info/numero/CDAP_006/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 41:
+Titre: Bankers, Markets & Investors
+Type: Revue
+Code: ESKA
+URL: https://shs.cairn.info/revue-bankers-markets-et-investors?lang=fr
+Couverture: https://shs.cairn.info/numero/BMI_176/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 42:
+Titre: Population & Sociétés
+Type: Revue
+Code: Ined Éditions
+URL: https://shs.cairn.info/revue-population-et-societes?lang=fr
+Couverture: https://shs.cairn.info/numero/POPSOC_626/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 43:
+Titre: Revue du Nord
+Type: Revue
+Code: Association Revue du Nord
+URL: https://shs.cairn.info/revue-du-nord?lang=fr
+Couverture: https://shs.cairn.info/numero/RDN_449/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 44:
+Titre: Les Cahiers de l’Actif
+Type: Revue
+Code: Éditions Actif
+URL: https://shs.cairn.info/revue-cahiers-de-l-actif?lang=fr
+Couverture: https://shs.cairn.info/numero/CAAC_574/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 45:
+Titre: Éducation & formations
+Type: Revue
+Code: DEPP – MENJ / SIES – MESR
+URL: https://shs.cairn.info/revue-education-et-formations?lang=fr
+Couverture: https://shs.cairn.info/numero/EDFO_106/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 46:
+Titre: Annales de Bourgogne
+Type: Revue
+Code: Éditions Universitaires de Dijon
+URL: https://shs.cairn.info/revue-annales-de-bourgogne?lang=fr
+Couverture: https://shs.cairn.info/numero/ANBO_241/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 47:
+Titre: Revue CONFLUENCE : Sciences & Humanités
+Type: Revue
+Code: Unité de Recherche CONFLUENCE : Sciences et Humanités [EA 1598] - UCLy
+URL: https://shs.cairn.info/revue-confluence?lang=fr
+Couverture: https://shs.cairn.info/numero/CONFL_006/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 48:
+Titre: Cahiers de la sécurité et de la justice
+Type: Revue
+Code: Institut des hautes études du ministère de l’Intérieur
+URL: https://shs.cairn.info/revue-cahiers-de-la-securite-et-de-la-justice?lang=fr
+Couverture: https://shs.cairn.info/numero/CSJ_059/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 49:
+Titre: Afrique(s) en mouvement
+Type: Revue
+Code: Université Internationale de Rabat
+URL: https://shs.cairn.info/revue-afrique-en-mouvement?lang=fr
+Couverture: https://shs.cairn.info/numero/AEM_007/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 50:
+Titre: Habitante
+Type: Revue
+Code: Audimat Éditions
+URL: https://shs.cairn.info/revue-habitante?lang=fr
+Couverture: https://shs.cairn.info/numero/HABI_005/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 51:
+Titre: Cahiers de danse
+Type: Revue
+Code: La Briqueterie / CDCN du Val-de-Marne
+URL: https://shs.cairn.info/revue-cahiers-de-danse?lang=fr
+Couverture: https://shs.cairn.info/numero/CDD_001A/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 52:
+Titre: Germinal
+Type: Revue
+Code: Éditions Le Bord de l’eau
+URL: https://shs.cairn.info/revue-germinal?lang=fr
+Couverture: https://shs.cairn.info/numero/GER_007/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 53:
+Titre: Cahiers de Conflits
+Type: Revue
+Code: Revue Conflits
+URL: https://shs.cairn.info/revue-cahiers-de-conflits?lang=fr
+Couverture: https://shs.cairn.info/numero/CDC_243/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 54:
+Titre: Thérapie Psychomotrice et Recherches
+Type: Revue
+Code: Syndicat National d'Union des Psychomotriciens (SNUP)
+URL: https://shs.cairn.info/revue-therapie-psychomotrice-et-recherches?lang=fr
+Couverture: https://shs.cairn.info/numero/TPR_188/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 55:
+Titre: Présence haptonomique
+Type: Revue
+Code: CIRDH – Frans Veldman
+URL: https://shs.cairn.info/revue-presence-haptonomique?lang=fr
+Couverture: https://shs.cairn.info/numero/PH_003/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 56:
+Titre: La Géographie
+Type: Revue
+Code: Société de Géographie
+URL: https://shs.cairn.info/revue-la-geographie?lang=fr
+Couverture: https://shs.cairn.info/numero/GEO_1594/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 57:
+Titre: Le Regard Libre
+Type: Revue
+Code: Le regard libre
+URL: https://shs.cairn.info/revue-regard-libre?lang=fr
+Couverture: https://shs.cairn.info/numero/REGLI_108/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 58:
+Titre: Revue d’histoire de l’enfance « irrégulière »
+Type: Revue
+Code: Anamosa
+URL: https://shs.cairn.info/revue-d-histoire-de-l-enfance-irreguliere?lang=fr
+Couverture: https://shs.cairn.info/numero/RHEI_025/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 59:
+Titre: Revue Historique des Armées
+Type: Revue
+Code: Service Historique de la Défense
+URL: https://shs.cairn.info/revue-historique-des-armees?lang=fr
+Couverture: https://shs.cairn.info/numero/RHA_314/cover/thumbnail?lang=fr
+--------------------------------------------------
+
+Publication 60:
+Titre: Études Durkheimiennes
+Type: Revue
+Code: Berghahn Books
+URL: https://shs.cairn.info/revue-etudes-durkheimiennes?lang=fr
+Couverture: https://shs.cairn.info/numero/DURK_271/cover/thumbnail?lang=fr
+--------------------------------------------------
+

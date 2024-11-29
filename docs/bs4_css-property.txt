@@ -1,0 +1,216 @@
+CSS selectors through the ``.css`` property
+-------------------------------------------
+
+:py:class:`BeautifulSoup` and :py:class:`Tag` objects support CSS selectors through
+their ``.css`` property. The actual selector implementation is handled
+by the `Soup Sieve <https://facelessuser.github.io/soupsieve/>`_
+package, available on PyPI as ``soupsieve``. If you installed
+Beautiful Soup through ``pip``, Soup Sieve was installed at the same
+time, so you don't have to do anything extra.
+
+The Soup Sieve documentation lists `all the currently supported CSS
+selectors <https://facelessuser.github.io/soupsieve/selectors/>`_, but
+here are some of the basics. You can find tags::
+
+ soup.css.select("title")
+ # [<title>The Dormouse's story</title>]
+
+ soup.css.select("p:nth-of-type(3)")
+ # [<p class="story">...</p>]
+
+Find tags beneath other tags::
+
+ soup.css.select("body a")
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+ #  <a class="sister" href="http://example.com/lacie"  id="link2">Lacie</a>,
+ #  <a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>]
+
+ soup.css.select("html head title")
+ # [<title>The Dormouse's story</title>]
+
+Find tags `directly` beneath other tags::
+
+ soup.css.select("head > title")
+ # [<title>The Dormouse's story</title>]
+
+ soup.css.select("p > a")
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+ #  <a class="sister" href="http://example.com/lacie"  id="link2">Lacie</a>,
+ #  <a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>]
+
+ soup.css.select("p > a:nth-of-type(2)")
+ # [<a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>]
+
+ soup.css.select("p > #link1")
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>]
+
+ soup.css.select("body > a")
+ # []
+
+Find the siblings of tags::
+
+ soup.css.select("#link1 ~ .sister")
+ # [<a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>,
+ #  <a class="sister" href="http://example.com/tillie"  id="link3">Tillie</a>]
+
+ soup.css.select("#link1 + .sister")
+ # [<a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>]
+
+Find tags by CSS class::
+
+ soup.css.select(".sister")
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+ #  <a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>,
+ #  <a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>]
+
+ soup.css.select("[class~=sister]")
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+ #  <a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>,
+ #  <a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>]
+
+Find tags by ID::
+
+ soup.css.select("#link1")
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>]
+
+ soup.css.select("a#link2")
+ # [<a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>]
+
+Find tags that match any selector from a list of selectors::
+
+ soup.css.select("#link1,#link2")
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+ #  <a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>]
+
+Test for the existence of an attribute::
+
+ soup.css.select('a[href]')
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+ #  <a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>,
+ #  <a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>]
+
+Find tags by attribute value::
+
+ soup.css.select('a[href="http://example.com/elsie"]')
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>]
+
+ soup.css.select('a[href^="http://example.com/"]')
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+ #  <a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>,
+ #  <a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>]
+
+ soup.css.select('a[href$="tillie"]')
+ # [<a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>]
+
+ soup.css.select('a[href*=".com/el"]')
+ # [<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>]
+
+There's also a method called ``select_one()``, which finds only the
+first tag that matches a selector::
+
+ soup.css.select_one(".sister")
+ # <a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>
+
+As a convenience, you can call ``select()`` and ``select_one()`` can
+directly on the :py:class:`BeautifulSoup` or :py:class:`Tag` object, omitting the
+``.css`` property::
+
+ soup.select('a[href$="tillie"]')
+ # [<a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>]
+
+ soup.select_one(".sister")
+ # <a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>
+
+CSS selector support is a convenience for people who already know the
+CSS selector syntax. You can do all of this with the Beautiful Soup
+API. If CSS selectors are all you need, you should skip Beautiful Soup
+altogether and parse the document with ``lxml``: it's a lot
+faster. But Soup Sieve lets you `combine` CSS selectors with the
+Beautiful Soup API.
+
+Advanced Soup Sieve features
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Soup Sieve offers a substantial API beyond the ``select()`` and
+``select_one()`` methods, and you can access most of that API through
+the ``.css`` attribute of :py:class:`Tag` or :py:class:`BeautifulSoup`. What follows
+is just a list of the supported methods; see `the Soup Sieve
+documentation <https://facelessuser.github.io/soupsieve/>`_ for full
+documentation.
+
+The ``iselect()`` method works the same as ``select()``, but it
+returns a generator instead of a list::
+
+ [tag['id'] for tag in soup.css.iselect(".sister")]
+ # ['link1', 'link2', 'link3']
+
+The ``closest()`` method returns the nearest parent of a given :py:class:`Tag`
+that matches a CSS selector, similar to Beautiful Soup's
+``find_parent()`` method::
+
+ elsie = soup.css.select_one(".sister")
+ elsie.css.closest("p.story")
+ # <p class="story">Once upon a time there were three little sisters; and their names were
+ #  <a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+ #  <a class="sister" href="http://example.com/lacie" id="link2">Lacie</a> and
+ #  <a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>;
+ #  and they lived at the bottom of a well.</p>
+
+The ``match()`` method returns a boolean depending on whether or not a
+specific :py:class:`Tag` matches a selector::
+ 
+ # elsie.css.match("#link1")
+ True
+
+ # elsie.css.match("#link2")
+ False
+
+The ``filter()`` method returns the subset of a tag's direct children
+that match a selector::
+ 
+ [tag.string for tag in soup.find('p', 'story').css.filter('a')]
+ # ['Elsie', 'Lacie', 'Tillie']
+
+The ``escape()`` method escapes CSS identifiers that would otherwise
+be invalid::
+ 
+ soup.css.escape("1-strange-identifier")
+ # '\\31 -strange-identifier'
+
+Namespaces in CSS selectors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you've parsed XML that defines namespaces, you can use them in CSS
+selectors.::
+
+ from bs4 import BeautifulSoup
+ xml = """<tag xmlns:ns1="http://namespace1/" xmlns:ns2="http://namespace2/">
+  <ns1:child>I'm in namespace 1</ns1:child>
+  <ns2:child>I'm in namespace 2</ns2:child>
+ </tag> """
+ namespace_soup = BeautifulSoup(xml, "xml")
+
+ namespace_soup.css.select("child")
+ # [<ns1:child>I'm in namespace 1</ns1:child>, <ns2:child>I'm in namespace 2</ns2:child>]
+
+ namespace_soup.css.select("ns1|child")
+ # [<ns1:child>I'm in namespace 1</ns1:child>]
+
+Beautiful Soup tries to use namespace prefixes that make sense based
+on what it saw while parsing the document, but you can always provide
+your own dictionary of abbreviations::
+
+ namespaces = dict(first="http://namespace1/", second="http://namespace2/")
+ namespace_soup.css.select("second|child", namespaces=namespaces)
+ # [<ns1:child>I'm in namespace 2</ns1:child>]
+
+History of CSS selector support
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The ``.css`` property was added in Beautiful Soup 4.12.0. Prior to this,
+only the ``.select()`` and ``.select_one()`` convenience methods were
+supported.
+
+The Soup Sieve integration was added in Beautiful Soup 4.7.0. Earlier
+versions had the ``.select()`` method, but only the most commonly-used
+CSS selectors were supported.

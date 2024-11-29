@@ -1,0 +1,5 @@
+[console_scripts]
+rebrowser_playwright = rebrowser_playwright.__main__:main
+
+[pyinstaller40]
+hook-dirs = rebrowser_playwright._impl.__pyinstaller:get_hook_dirs

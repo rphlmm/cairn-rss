@@ -8,7 +8,7 @@ import logging
 from datetime import datetime, timezone
 from typing import Optional, Dict, List, Any
 from pathlib import Path
-from playwright.sync_api import sync_playwright, Page, Browser, BrowserContext, TimeoutError, Error as PlaywrightError
+from rebrowser_playwright.async_api import async_playwright
 from tenacity import retry, stop_after_attempt, wait_exponential
 from feedgen.feed import FeedGenerator
 import os
